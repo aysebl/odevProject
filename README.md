@@ -1,6 +1,7 @@
-Bu projede MongoDB ve Redis kullanılmıştır 
-Web servisleri birleştirmek için Swagger kullanıldı
-.Net Web API kullanılmıştır.
-Katmanlı mimari kullanıldı.
+Projemde .NetCore,katmanlı mimari,Web api,MongoDB ve Redis kullanıldı.
+MongoDB Crud işlemleri yapıldı.
+Ürünleri sepete ekleme işlemi Redis ile yapıldı.
+Servisler Swager ile birleştirildi.
+
 
 
