@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Awe8g7GvslrGqmGnwv974HrvKefXE2B2DIvuoWAwzK1KHA8pkL1hTay2V31l1WqdF0Drig/boPq/J+cmxVcOAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mac\\Desktop\\OdevProject\\OdevProject\\Odev\\Odev.Entities\\Odev.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mac\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\mac\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\mac\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\mac\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
+    "C:\\Users\\mac\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\mac\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\mac\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

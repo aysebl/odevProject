@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.12.3" />
+    <PackageReference Include="StackExchange.Redis" Version="2.6.66" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Odev.Core\Odev.Core.csproj" />
+    <ProjectReference Include="..\Odev.Entities\Odev.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+﻿using Odev.Business.Base;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Odev.Business.Model
+{
+    public class ProductViewModel : BaseModel
+    {
+        public string CategoryId { get; set; }
+
+        public string Title { get; set; }
+
+        public string Content { get; set; }
+
+        #region [ LookedUp Fields ]
+
+        public CategoryModel Category { get; set; }
+
+        #endregion
+    }
+}
